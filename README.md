@@ -1,4 +1,4 @@
-![logo](https://github.com/hardevmunda/hardevmunda/blob/main/Untitled%20design%20(1).png)
+![logo](https://github.com/hardevmunda/hardevmunda/blob/main/cover.jpg)
 <h1 align="center">Hi 👋, I'm Hardev Singh Munda</h1>
 <h3 align="center">A passionate developer from India</h3>
 
